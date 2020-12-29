@@ -1,0 +1,39 @@
+body {
+    background-color:linear-gradient(to top, #95232b, #a26c70) ;
+}
+
+.LoginBox {
+    width: 28rem;
+    height: auto;
+    border-radius: 2px;
+    box-shadow: 0 0 6px rgba(0,155,270, 0.3);
+}
+
+.LoginImg {
+    width: 15rem;
+    height: 7rem;
+    display: inline-block;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    margin-left: 5rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.login-box-msg  {
+    
+        margin-top: 4rem;
+        margin-bottom: 3rem;
+    
+}
+.form-control {
+    height: 48px;
+    border-radius: 3px;
+    background-color: #f2f7fa;
+    border: none;
+    color: #636c72;
+    font-weight: 500;
+    font-size: 12px
+}
+

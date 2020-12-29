@@ -1,0 +1,17 @@
+/* -webkit-tap-highlight-color: rgba(0,0,0,0);
+color: #73879C;
+font-family: "Helvetica Neue",Roboto,Arial,"Droid Sans",sans-serif;
+font-size: 13px;
+font-weight: 400;
+line-height: 1.471;
+box-sizing: border-box;
+background: #F7F7F7;
+padding: 10px 20px 0;
+margin-left: 230px;
+min-height: 666px; */
+
+.nav-md .container.body .right_col {
+    padding: 10px 20px 0;
+    margin-left: 230px;
+}
+
